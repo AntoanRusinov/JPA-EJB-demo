@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2589" started-at="2014-09-02T12:28:42Z" finished-at="2014-09-02T12:28:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2589" started-at="2014-09-02T12:28:42Z" finished-at="2014-09-02T12:28:45Z">
+      <class name="jpa.tests.StudentTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:jpa.tests.StudentTest@1c2c22f3]" name="test" duration-ms="2565" started-at="2014-09-02T15:28:43Z" finished-at="2014-09-02T15:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- jpa.tests.StudentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
